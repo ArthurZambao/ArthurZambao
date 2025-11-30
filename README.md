@@ -2,7 +2,7 @@
 
 🎓 Estou cursando o 3º Ano do Ensino médio na Etec de Guarulhos no curso de Desenvolvimento de Sistemas  
 💻 Desenvolvedor Full Stack em formação  
-📅 Tenho 17 anos e estou sempre buscando aprender mais sobre tecnologia!
+📅 Tenho 18 anos e estou sempre buscando aprender mais sobre tecnologia!
 
 ---
 
