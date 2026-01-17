@@ -1,6 +1,6 @@
 ## 👋 Olá! Me chamo Arthur Zambão Leite
 
-🎓 Estou cursando o 3º Ano do Ensino médio na Etec de Guarulhos no curso de Desenvolvimento de Sistemas  
+🎓 Técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos   
 💻 Desenvolvedor Full Stack em formação  
 📅 Tenho 18 anos e estou sempre buscando aprender mais sobre tecnologia!
 
@@ -28,7 +28,7 @@
 
 ### 💡 Sobre mim
 
-Atualmente estudo Desenvolvimento de Sistemas na **Etec de Guarulhos**.  
+Sou Técnico em Desenvolvimento de Sistemas, formado na **Etec de Guarulhos**.  
 Tenho interesse em atuar como **desenvolvedor Full Stack**, unindo frontend e backend para criar soluções completas, eficientes e modernas.
 
 Sempre estou buscando melhorar minhas habilidades e colaborar em projetos que me desafiem e tragam aprendizado.
@@ -38,7 +38,7 @@ Sempre estou buscando melhorar minhas habilidades e colaborar em projetos que me
 ### 📫 Vamos conversar?
 
 - Email: arthurzambaoo@gmail.com
-
+- LinkedIn: https://www.linkedin.com/in/arthurzambao/
 ---
 
 <div align="center">
