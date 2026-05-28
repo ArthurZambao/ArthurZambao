@@ -2,7 +2,7 @@
 
 🎓 Técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos  
 🏫 Cursando Análise e Desenvolvimento de Sistemas na FIAP  
-💻 Desenvolvedor Full Stack em formação 
+💻 Desenvolvedor Full Stack em formação  
 📅 Tenho 18 anos e estou sempre buscando aprender mais sobre tecnologia!
 
 ---
