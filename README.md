@@ -18,17 +18,22 @@
 
 ## Sobre mim
 
-Sou Técnico em Desenvolvimento de Sistemas, formado na Etec de Guarulhos, e atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP.
-Tenho interesse em atuar como desenvolvedor Full Stack, unindo frontend e backend para criar soluções completas, eficientes e modernas.
+Sou Técnico em Desenvolvimento de Sistemas, formado pela Etec de Guarulhos, e atualmente curso Análise e Desenvolvimento de Sistemas na FIAP.
 
-Sempre estou buscando melhorar minhas habilidades e colaborar em projetos que me desafiem e tragam aprendizado.
+Tenho direcionado meus estudos e projetos para o desenvolvimento Back-end, com foco em Java, Spring Boot, construção de APIs REST, modelagem de dados e arquitetura de software. Também possuo experiência com desenvolvimento Full-Stack, utilizando tecnologias como React, Next.js e Node.js.
+
+Gosto de transformar problemas em soluções através da tecnologia, aprender na prática e colaborar com pessoas que compartilham o mesmo propósito de construir algo relevante.
+
 
 ```ts
 const arthur = {
-  stack:    ["TypeScript", "React", "Next.js", "Nuxt.js", "NestJS", "Node.js"],
-  database: ["PostgreSQL", "MongoDB", "Prisma", "Oracle"],
-  devops:   ["Docker", "Render", "Vercel", "CI/CD"],
-  studying: ["Competitive Programming", "System Design", "AI integrations"],
+  focus:    "Back-end Development",
+  languages: ["Java", "TypeScript", "JavaScript", "SQL"],
+  backend:  ["Spring Boot", "Hibernate", "JPA", "NestJS", "Node.js"],
+  frontend: ["React", "Next.js", "React Native"],
+  database: ["MySQL", "PostgreSQL", "Oracle", "MongoDB"],
+  tools:    ["Git", "Docker", "GitHub", "CI/CD"],
+  studying: ["System Design", "Software Architecture", "Data Modeling"],
   location: "Guarulhos, São Paulo 🇧🇷",
 };
 ```
@@ -41,12 +46,23 @@ const arthur = {
   <tr>
     <td align="center" width="130"><strong>Linguagens</strong></td>
     <td align="left">
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Back-end</strong></td>
+    <td align="left">
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="Hibernate"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL"/>
     </td>
   </tr>
   <tr>
@@ -54,29 +70,19 @@ const arthur = {
     <td align="left">
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js"/>
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS"/>
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="left">
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS"/>
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express"/>
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/>
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"/>
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Banco de dados</strong></td>
     <td align="left">
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle"/>
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite"/>
     </td>
   </tr>
@@ -88,7 +94,7 @@ const arthur = {
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps</strong></td>
+    <td align="center"><strong>DevOps & Tools</strong></td>
     <td align="left">
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
@@ -107,7 +113,7 @@ const arthur = {
   <tr>
     <td width="50%" valign="top">
       <h3>🖊️ Incita</h3>
-      <p>Plataforma SaaS de correção de redações com IA. Co-fundador e lead de frontend.</p>
+      <p>Plataforma SaaS de correção de redações com IA. Co-fundador e desenvolvedor Full-Stack, atuando principalmente na liderança de Front-end.</p>
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
@@ -121,17 +127,22 @@ const arthur = {
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌿 TerraVita</h3>
-      <p>Plataforma de saúde preventiva usando dados de satélite e IA. Projeto acadêmico FIAP (Global Solution).</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+        <td width="50%" valign="top">
+      <h3>🌿 Soulie — Soul Up</h3>
+      <p>Experiência de gamificação voltada à sustentabilidade, com avatar interativo, missões ecológicas, pontuação e acompanhamento de atividades. Projeto desenvolvido para o FIAP Challenge, conquistando o 3º lugar no Evento do Next 2026.</p>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 Projeto Dafe</h3>
-      <p>Fórum escolar desenvolvido como TCC na Etec. Liderei backend e frontend de forma independente.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <h3>💬 D.A.F.E</h3>
+      <p>Plataforma de feedback escolar desenvolvida como TCC na Etec, aproximando alunos, professores e administração por meio de formulários, avisos e espaços de interação.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
 </table>
